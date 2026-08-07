@@ -4,6 +4,14 @@
 
 CATFISHR identifies malignant cells by integrating RNA expression similarity and inferred CNV similarity to high-confidence malignant reference clusters.
 
+## Citation
+
+Shukla, P., Mannino, M., Hofer, M., Lattmann, E., Haunerdinger, V., Turko, P.,
+& Levesque, M. P. CATFISHR: integration of transcriptome and inferred CNV
+profiles for comprehensive malignant cell identification.
+*NAR Genomics and Bioinformatics* (under review).
+https://doi.org/10.5281/zenodo.20530569
+
 ## Installation
 
 Install the development version from GitHub:
@@ -151,8 +159,3 @@ Mean shift clusters with low Mahalanobis distance to the malignant reference clu
 ```r
 vignette("CATFISHR", package = "CATFISHR")
 ```
-
-
-## Citation
-
-Shukla et al., in preparation.
