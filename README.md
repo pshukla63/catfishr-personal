@@ -9,7 +9,7 @@ CATFISHR identifies malignant cells by integrating RNA expression similarity and
 Shukla, P., Mannino, M., Hofer, M., Lattmann, E., Haunerdinger, V., Turko, P.,
 & Levesque, M. P. CATFISHR: integration of transcriptome and inferred CNV
 profiles for comprehensive malignant cell identification.
-*NAR Genomics and Bioinformatics* (under review).
+(in revision).
 https://doi.org/10.5281/zenodo.20530569
 
 ## Installation
